@@ -70,7 +70,8 @@ I’m passionate about:
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](www.linkedin.com/in/gaurav-prakash-16bb9624a)
-[![Email](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:gaurav.prakash.03@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px">](www.linkedin.com/in/gaurav-prakash-16bb9624a)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30px">](mailto:gaurav.prakash.03@gmail.com)
+
 ---
 
