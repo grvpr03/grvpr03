@@ -37,7 +37,7 @@ I’m passionate about:
 ### 📊 Data Analytics Tools
 <p>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Excel.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
 </p>
 
@@ -61,21 +61,16 @@ I’m passionate about:
 
 ## 📂 Highlighted Projects
 
-| # | Project Name | Description | Tech Stack |
-|---|--------------|-------------|------------|
-| **1** | **Violence Detection (Safe-Vision)** | Deep Learning system for detecting violent events in videos using CNN-3D + OpenCV. | Python, TensorFlow/Keras, OpenCV |
-| **2** | **Supply Chain RL Agent** | Q-learning reinforcement learning agent for warehouse-grid navigation & optimal path planning. | Python, NumPy, OpenAI Gym |
-| **3** | **Heart Disease Prediction** | ML pipeline predicting heart disease risk using classical ML models. | Pandas, Scikit-Learn |
-| **4** | **Brain Tumor Classification** | CNN-based MRI tumor detection system. | Python, OpenCV, CNN |
-| **5** | **Portfolio Website** | Personal website hosted via GitHub Pages. | HTML, CSS, JavaScript |
+| # | Project | Description | Tech Stack | Source |
+|---|---------|-------------|------------|--------|
+| **1** | **Brain Tumor Classification** | - Multi-class CNN model detecting **4 types of brain tumors** from MRI images.<br> - Image preprocessing using **edge, point & line detection**.<br> - **Histogram equalization** to enhance contrast.<br> - Built to support **AI-driven medical diagnostics**. | Python, OpenCV, CNN, NumPy | 🔗 [GitHub Repo](https://github.com/grvpr03/Brain-Tumor-Analysis) |
+| **2** | **SafeVision – Real-Time Violence Detection** | - Live surveillance system detecting violent actions using **CNN-LSTM, ResNet50, VIVIT, InceptionV3**.<br> - Custom-labeled dataset of **2,000+ video clips**.<br> - Advanced preprocessing → accuracy **> 90%**.<br> - Integrated **Telegram API** for real-time alerts.<br> - Designed for **public safety & automation**. | Python, TensorFlow, OpenCV, Telegram API, CVAT | 🔗 [GitHub Repo](https://github.com/grvpr03/Heart-Disease-Prediction) |
+| **3** | **AeroVis – Drone Image Enhancement System** | - Real-time aerial image enhancement for surveillance.<br> - Used **YOLOv8, SRGAN, ESRGAN** for detection + super-resolution.<br> - Trained using **VisDrone dataset** (~5,000 frames).<br> - Improves **object clarity, detection accuracy & monitoring**. | Python, NumPy, SRGAN, ESRGAN, HTML | 🔗 [GitHub Repo](https://github.com/grvpr03/Safe-Vision) |
 
 ---
 
 ## 🌐 Connect With Me
-
-📫 **Email:** *add your email*  
-🔗 **LinkedIn:** *add your link*  
-💻 **Portfolio:** *add your GitHub Pages / website link*  
-
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](www.linkedin.com/in/gaurav-prakash-16bb9624a)
+[![Email](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:gaurav.prakash.03@gmail.com)
 ---
 
