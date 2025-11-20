@@ -1,16 +1,16 @@
-## Hi there 👋
-# 👋 Hello World! I'm **Gaurav Prakash**
+
+# 👋 Hi there! I'm **Gaurav Prakash**
 
 🎓 B.Tech. in **Artificial Intelligence & Machine Learning**  
 🔍 Curious, analytical, and passionate about **data-driven decision-making**  
-📊 Aiming to contribute to **advanced data analytics, AI/ML systems, and product-building** projects — especially in domains like **aviation (Airbus)**  
+📊 Aiming to contribute to **advanced data analytics, AI/ML systems, and product-building** projects**  
 💡 I enjoy solving complex engineering and analytical problems using AI, statistics, and smart automation.
 
 ---
 
 ## 🧠 Who Am I?
 
-I’m a curious and highly analytical AI/ML engineering student with a strong aptitude for **data analytics**, problem-solving, and building intelligent systems. My goal is to transform data into meaningful insights that support **real-world decision-making** across industries.
+I’m a curious and analytical AI/ML engineering student with a strong aptitude for **data analytics**, problem-solving, and building intelligent systems. My goal is to transform data into meaningful insights that support **real-world decision-making** across industries.
 
 I’m passionate about:
 
